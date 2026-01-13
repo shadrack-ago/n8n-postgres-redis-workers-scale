@@ -17,6 +17,8 @@ A **production-ready, scalable n8n setup** with PostgreSQL database, Redis queue
 - Development before cloud deployment
 - High-availability workflow processing
 
+- Local pc setup
+
 ---
 
 ## 🚀 Quick Start (5 Minutes)
