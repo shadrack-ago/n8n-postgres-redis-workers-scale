@@ -72,7 +72,7 @@ services:
     image: docker.n8n.io/n8nio/n8n
     command: start
     ports:
-      - "127.0.0.1:5678:5678"
+      - "127.0.0.1:5679:5678"
 
   n8n-worker-1:
     <<: *shared
