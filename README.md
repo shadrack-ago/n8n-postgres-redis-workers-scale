@@ -226,4 +226,14 @@ Found this helpful? ⭐ **Star this repository** and consider contributing impro
 
 This project is open source and available under the MIT License.
 
+## 🙏 Acknowledgments
 
+This project is inspired by and based on the original work by [mateusrovedaa]([https://github.com/mateusrovedaa/n8n-postgres-redis-workers.git]). 
+Their foundation provided the starting point for this enhanced version with additional features:
+
+- Enhanced documentation for beginners
+- Cloud deployment guide
+- Production-ready configurations
+- Comprehensive troubleshooting section
+
+Thank you to the original author for their contribution to the n8n community!
